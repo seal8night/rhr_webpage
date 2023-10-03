@@ -1,9 +1,9 @@
 <!-- wp:heading {"level":5} -->
-<h5 id="jump-to-saturday-sunday">Jump to <a href="#saturday" data-type="internal" data-id="#saturday">Saturday</a>, <a href="#sunday" data-type="internal" data-id="#sunday">Sunday</a></h5>
+<h5 class="wp-block-heading" id="jump-to-saturday-sunday">Jump to <a href="#saturday" data-type="internal" data-id="#saturday">Saturday</a>, <a href="#sunday" data-type="internal" data-id="#sunday">Sunday</a></h5>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2 id="weekdays">Weekdays</h2>
+<h2 class="wp-block-heading" id="weekdays">Weekdays</h2>
 <!-- /wp:heading -->
 
 <!-- wp:table {"className":"is-style-regular pstable"} -->
@@ -15,7 +15,7 @@
 <!-- /wp:table -->
 
 <!-- wp:heading -->
-<h2 id="saturday">Saturday</h2>
+<h2 class="wp-block-heading" id="saturday">Saturday</h2>
 <!-- /wp:heading -->
 
 <!-- wp:table -->
@@ -27,7 +27,7 @@
 <!-- /wp:table -->
 
 <!-- wp:heading -->
-<h2 id="sunday">Sunday</h2>
+<h2 class="wp-block-heading" id="sunday">Sunday</h2>
 <!-- /wp:heading -->
 
 <!-- wp:table -->
@@ -39,8 +39,5 @@
           <a href="http://www.calvarychapelgrangeville.com/">LIVE Service - Calvary Chapel Grangeville</a>
         </td><td class="has-text-align-center" data-align="center">Dean Huibregtse</td></tr><tr><td class="has-text-align-center" data-align="center">3:00pm</td><td class="has-text-align-center" data-align="center">
           <a href="https://hischannel.com/WorldNewsBriefing">World News Briefing</a>
-        </td><td class="has-text-align-center" data-align="center">Tom Hughes</td></tr><tr><td class="has-text-align-center" data-align="center">4:00pm</td><td class="has-text-align-center" data-align="center">
-            Love Beyond Measure <br><small>phone: (208) 798-4744</small> 
-
-        </td><td class="has-text-align-center" data-align="center">Rick Kopp</td></tr><tr><td class="has-text-align-center" data-align="center">10:00pm</td><td class="has-text-align-center" data-align="center"><a href="https://ccfingerlakes.org/">Walk In The Light</a></td><td class="has-text-align-center" data-align="center">Bill Gallatin</td></tr></tbody></table></figure>
+        </td><td class="has-text-align-center" data-align="center">Tom Hughes</td></tr><tr><td class="has-text-align-center" data-align="center">5:00pm</td><td class="has-text-align-center" data-align="center"><a href="https://countdown2eternity.com/">Countdown to Eternity</a> </td><td class="has-text-align-center" data-align="center">James Kaddis and Don Stewart</td></tr><tr><td class="has-text-align-center" data-align="center">10:00pm</td><td class="has-text-align-center" data-align="center"><a href="https://ccfingerlakes.org/">Walk In The Light</a></td><td class="has-text-align-center" data-align="center">Bill Gallatin</td></tr></tbody></table></figure>
 <!-- /wp:table -->
